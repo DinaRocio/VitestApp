@@ -4,16 +4,6 @@ exports[`View > snapshot matches 1`] = `
 {
   "baseElement": <body>
     <div>
-      <span
-        disable="false"
-        id="viewId"
-      >
-        
-        Hello from inside View
-        
-      </span>
-    </div>
-    <div>
       <div
         disable="false"
       >
