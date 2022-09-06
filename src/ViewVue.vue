@@ -8,5 +8,6 @@ defineProps<{
 
 <template>
   <component :is="element" :aria-label="ariaLabel" :disable="isDisable">
+    <slot></slot>
   </component>
 </template>
